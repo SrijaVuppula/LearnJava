@@ -8,6 +8,6 @@ public class temperature
         System.out.println("Enter the temperature in Celsius : ");
         float tempC = input.nextFloat();
         float tempF = (tempC * 9/5) + 32;
-        System.out.println("The temperature in Fahrenheit is : " + tempF);
+        System.out.println(tempC + "°C is equal to " + tempF + "°F");
     }
 }
