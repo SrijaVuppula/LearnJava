@@ -26,3 +26,10 @@ This repository serves as a personal collection of Java code examples, exercises
 | `StringExample.java` | Demonstrates user input using `Scanner` and passing a `String` as a parameter to a method for simple greeting construction. |
 | `Swap.java` | Contains a method (`swap`) to swap the values of two integer variables using a temporary variable. |
 | `VarAgrs.java` | Demonstrates the use of Variable Arguments (Varargs) in Java methods (`...`) to pass a variable number of arguments. Includes examples using `int`, `String`, `char`, and the universal `Object` type. |
+| `AreaOfCircle.java` | Calculates the area of a circle based on user-provided radius. |
+| `AreaOfRectangle.java` | Calculates the area of a rectangle based on user-provided length and width. |
+| `AreaOfTriangle.java` | Calculates the area of a triangle using the base and height. |
+| `EquilateralTriangle.java` | Calculates the area of an equilateral triangle using the length of one side. |
+| `IsoscelesTriangle.java` | Calculates the area of an isosceles triangle using the base and height. |
+| `Parallelogram.java` | Calculates the area of a parallelogram using the base and height. |
+| `Rhombus.java` | Calculates the area of a rhombus using the lengths of its two diagonals. |
