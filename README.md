@@ -28,8 +28,8 @@ This repository serves as a personal collection of Java code examples, exercises
 | `VarAgrs.java` | Demonstrates the use of Variable Arguments (Varargs) in Java methods (`...`) to pass a variable number of arguments. Includes examples using `int`, `String`, `char`, and the universal `Object` type. |
 | `AreaOfCircle.java` | Calculates the area of a circle based on user-provided radius. |
 | `AreaOfRectangle.java` | Calculates the area of a rectangle based on user-provided length and width. |
-| `AreaOfTriangle.java` | Calculates the area of a triangle using the base and height. |
-| `EquilateralTriangle.java` | Calculates the area of an equilateral triangle using the length of one side. |
-| `IsoscelesTriangle.java` | Calculates the area of an isosceles triangle using the base and height. |
-| `Parallelogram.java` | Calculates the area of a parallelogram using the base and height. |
-| `Rhombus.java` | Calculates the area of a rhombus using the lengths of its two diagonals. |
+| `AreaOfTriangle.java` | Calculates the area of a triangle using user-provided base and height. |
+| `EquilateralTriangle.java` | Calculates the area of an equilateral triangle using user-provided length of one side. |
+| `IsoscelesTriangle.java` | Calculates the area of an isosceles triangle using user-provided base and height. |
+| `Parallelogram.java` | Calculates the area of a parallelogram using user-input values of the equal sides and base. |
+| `Rhombus.java` | Calculates the area of a rhombus using the user-provided lengths of its two diagonals. |
