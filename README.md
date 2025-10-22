@@ -29,6 +29,7 @@ This repository serves as a personal collection of Java code examples, exercises
 | `AreaOfCircle.java` | Calculates the area of a circle based on user-provided radius. |
 | `AreaOfRectangle.java` | Calculates the area of a rectangle based on user-provided length and width. |
 | `AreaOfTriangle.java` | Calculates the area of a triangle using user-provided base and height. |
+| `LCM.java` | This Java program calculates the Least Common Multiple (LCM) of two numbers entered by the user. |
 | `EquilateralTriangle.java` | Calculates the area of an equilateral triangle using user-provided length of one side. |
 | `IsoscelesTriangle.java` | Calculates the area of an isosceles triangle using user-provided base and height. |
 | `Parallelogram.java` | Calculates the area of a parallelogram using user-input values of the equal sides and base. |
