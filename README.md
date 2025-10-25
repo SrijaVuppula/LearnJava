@@ -18,7 +18,7 @@ This repository serves as a personal collection of Java code examples, exercises
 | `ArrayExamples.java` | Demonstrates basic array operations: user input, printing, sorting, and filling an array using `java.util.Arrays`. |
 | `ChangeValue.java` | Illustrates how a method can change the values of an array passed as an argument (pass-by-reference effect in Java). |
 | `Greeting.java` | A simple program demonstrating how to call a method (`greeting`) from a different class (`Methodsss`). |
-| `IsPrime.java` | Contains a method (`isPrime`) to check if a given integer is a prime number. |
+| `IsPrime.java` | Contains a method (`isPrime`) to check if a user-provided integer is a prime number. |
 | `isArmstrong.java` | Contains a method (`isArmstrong`) to check if a number is an Armstrong number and prints all Armstrong numbers from 1 to 10,000. |
 | `Methodsss.java` | Contains various methods (`sum`, `greeting`, `sum2`) to demonstrate method definition and calling with and without parameters. |
 | `OverLoading.java` | Demonstrates method overloading in Java with two versions of method `A` and two versions of method `B` (different parameter lists). |
